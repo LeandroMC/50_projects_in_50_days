@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 :root {
   --left-bg-color: rgba(87, 84, 236, 0.7);
@@ -15,7 +14,7 @@
 }
 
 body {
-  font-family: 'Nando V2', sans-serif;
+  font-family: 'Roboto', sans-serif;
   height: 100vh;
   overflow: hidden;
   margin: 0;
